@@ -1,4 +1,4 @@
 android_svg
 ===========
 
-display the svg picture 
+it's used to display the svg picture on android platform.
